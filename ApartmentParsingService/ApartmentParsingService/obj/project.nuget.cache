@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uidAqYf5OYmFHq0Okl6J5W60npXEA1YeiP9f4iQWnGAKxC6M+MlKAeXBi8otXQNg9B+H7fRsCVUP9VE//dMxvA==",
+  "dgSpecHash": "ZTyxC0rpkmDNxg70syLPgPTGbWW/HsSPiNztenIX0phSp5ZmhDSVfpJl234ONGNXAwFDWfhiq9jLn8vhWT/dDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tsapk\\source\\repos\\ApartmentParsingService\\ApartmentParsingService\\ApartmentParsingService.csproj",
+  "projectFilePath": "C:\\Users\\tsapk\\OneDrive\\Рабочий стол\\ApartmentService\\ApartmentParsingService\\ApartmentParsingService\\ApartmentParsingService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tsapk\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "C:\\Users\\tsapk\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

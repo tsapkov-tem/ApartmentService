@@ -1,0 +1,14 @@
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.AssemblyInfoInputs.cache
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.AssemblyInfo.cs
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.csproj.CoreCompileInputs.cache
+C:\Users\tsapk\source\repos\CountServer\CountServer\bin\Debug\net6.0\CountServer.exe
+C:\Users\tsapk\source\repos\CountServer\CountServer\bin\Debug\net6.0\CountServer.deps.json
+C:\Users\tsapk\source\repos\CountServer\CountServer\bin\Debug\net6.0\CountServer.runtimeconfig.json
+C:\Users\tsapk\source\repos\CountServer\CountServer\bin\Debug\net6.0\CountServer.dll
+C:\Users\tsapk\source\repos\CountServer\CountServer\bin\Debug\net6.0\CountServer.pdb
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.dll
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\refint\CountServer.dll
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.pdb
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\CountServer.genruntimeconfig.cache
+C:\Users\tsapk\source\repos\CountServer\CountServer\obj\Debug\net6.0\ref\CountServer.dll
